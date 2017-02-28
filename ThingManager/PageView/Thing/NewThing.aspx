@@ -4,12 +4,17 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
     <title></title>
+<script type="text/javascript" src="../../Public/JS/jquery-1.12.2.min.js"></script>
+<script type="text/javascript" src="../../PageClass/Public/JS/Hash2Page.js"></script>
+<script type="text/javascript" src="../../PageClass/Input/InputTarget.js"></script>
+<script type="text/javascript" src="../../PageClass/Thing/NewThing.js"></script>
+
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
+    <div id="page_container">
     
     </div>
     </form>
