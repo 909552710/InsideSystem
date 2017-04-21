@@ -1,6 +1,6 @@
 ﻿function InputTarget() {
-    this.txt = "任务目标";
-    this.tips = "输入提示";
+    this.txt = "目标 / 需求 / 描述";
+    this.tips = "";
     this.html = "<ul>" +
                     "<li>" + this.txt + "</li>" +
                     "<li>" +

@@ -9,9 +9,11 @@
 <script type="text/javascript" src="../../Public/JS/jquery-1.12.2.min.js"></script>
 <script type="text/javascript" src="../../PageClass/Public/JS/Hash2Page.js"></script>
 <script type="text/javascript" src="../../PageClass/Input/InputTarget.js"></script>
+<script type="text/javascript" src="../../PageClass/Member/SetPerson.js"></script>
+<script type="text/javascript" src="../../PageClass/DateTime/SetTime.js"></script>
 <script type="text/javascript" src="../../PageClass/Thing/NewThing.js"></script>
-
 </head>
+
 <body>
     <form id="form1" runat="server">
     <div id="page_container">
